@@ -1,0 +1,1 @@
+# newhashshare-adapter
